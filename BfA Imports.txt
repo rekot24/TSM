@@ -1,0 +1,10 @@
+BfA Ores
+i:152513,i:152579,i:152512
+Vendor crafting items - Durable Flux,
+i:160298
+BS Crafted Armor - Greens
+i:152809,i:152804,i:152805,i:152803,i:152808,i:152806,i:152807,i:152802
+Blues
+i:159866,i:269421,i:159860,i:159863,i:159865
+Epics
+i:161889,i:162492,i:162466,i:161888,i:162491,i:162464
